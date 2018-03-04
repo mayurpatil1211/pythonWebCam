@@ -1,0 +1,4 @@
+*.pyc
+*.pyo
+venv/*
+web_UI/node_modules/*
