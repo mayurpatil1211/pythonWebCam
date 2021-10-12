@@ -13,7 +13,7 @@ Jinja2==2.10
 jsonpickle==0.9.6
 MarkupSafe==1.0
 numpy==1.14.1
-opencv-python==3.4.0.12
+opencv-python==4.2.0.32
 pytz==2018.3
 requests==2.18.4
 six==1.11.0
